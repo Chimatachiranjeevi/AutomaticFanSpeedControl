@@ -1,5 +1,7 @@
 # M2_AutomaticFanSpeedControl
 
+# **CONTENTS**
+
 - 1_Requirements
   * High Level Requirements
   * Low Level Requirements
